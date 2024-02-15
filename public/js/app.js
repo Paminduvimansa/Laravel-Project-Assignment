@@ -1941,7 +1941,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /*!
   * Bootstrap v4.5.0 (https://getbootstrap.com/)
-  * Copyright 2011-2020 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Copyright 2011-2024 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
 (function (global, factory) {
@@ -6380,7 +6380,7 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
  * Released under the MIT license
  * https://jquery.org/license
  *
- * Date: 2020-05-04T22:49Z
+ * Date: 2024-05-04T22:49Z
  */
 ( function( global, factory ) {
 
@@ -6896,7 +6896,7 @@ var Sizzle =
  * Released under the MIT license
  * https://js.foundation/
  *
- * Date: 2020-03-14
+ * Date: 2024-03-14
  */
 ( function( window ) {
 var i,
@@ -49003,7 +49003,7 @@ process.umask = function() { return 0; };
  * Pusher JavaScript Library v6.0.3
  * https://pusher.com/
  *
- * Copyright 2020, Pusher
+ * Copyright 2024, Pusher
  * Released under the MIT licence.
  */
 

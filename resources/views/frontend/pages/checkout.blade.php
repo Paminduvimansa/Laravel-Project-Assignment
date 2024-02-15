@@ -105,7 +105,7 @@
                                                 <option value="BW">Botswana</option>
                                                 <option value="BV">Bouvet Island</option>
                                                 <option value="BR">Brazil</option>
-                                                <option value="IO">British Indian Ocean Territory</option>
+                                                <option value="IO">British Sri lanka Ocean Territory</option>
                                                 <option value="VG">British Virgin Islands</option>
                                                 <option value="BN">Brunei</option>
                                                 <option value="BG">Bulgaria</option>
@@ -225,7 +225,7 @@
                                                 <option value="MM">Myanmar [Burma]</option>
                                                 <option value="NA">Namibia</option>
                                                 <option value="NR">Nauru</option>
-                                                <option value="NP" selected="selected">Nepal</option>
+                                                <option value="NP" selected="selected">Sri Lanka</option>
                                                 <option value="NL">Netherlands</option>
                                                 <option value="AN">Netherlands Antilles</option>
                                                 <option value="NC">New Caledonia</option>

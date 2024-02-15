@@ -15742,11 +15742,11 @@ rupee-sign:
   changes:
     - '3.2'
     - 5.0.0
-  label: Indian Rupee Sign
+  label: Sri lanka Rupee Sign
   search:
     terms:
       - currency
-      - indian
+      - Sri lanka
       - inr
       - money
   styles:
