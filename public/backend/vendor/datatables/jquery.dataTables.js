@@ -1,5 +1,5 @@
 /*! DataTables 1.10.21
- * ©2008-2020 SpryMedia Ltd - datatables.net/license
+ * ©2008-2024 SpryMedia Ltd - datatables.net/license
  */
 
 /**
@@ -9,7 +9,7 @@
  * @file        jquery.dataTables.js
  * @author      SpryMedia Ltd
  * @contact     www.datatables.net
- * @copyright   Copyright 2008-2020 SpryMedia Ltd.
+ * @copyright   Copyright 2008-2024 SpryMedia Ltd.
  *
  * This source file is free software, available under the following license:
  *   MIT license - http://datatables.net/license
@@ -1344,18 +1344,7 @@
 	// Escape regular expression special characters
 	var _re_escape_regex = new RegExp( '(\\' + [ '/', '.', '*', '+', '?', '|', '(', ')', '[', ']', '{', '}', '\\', '$', '^', '-' ].join('|\\') + ')', 'g' );
 	
-	// http://en.wikipedia.org/wiki/Foreign_exchange_market
-	// - \u20BD - Russian ruble.
-	// - \u20a9 - South Korean Won
-	// - \u20BA - Turkish Lira
-	// - \u20B9 - Indian Rupee
-	// - R - Brazil (R$) and South Africa
-	// - fr - Swiss Franc
-	// - kr - Swedish krona, Norwegian krone and Danish krone
-	// - \u2009 is thin space and \u202F is narrow no-break space, both used in many
-	// - Ƀ - Bitcoin
-	// - Ξ - Ethereum
-	//   standards as thousands separators.
+	
 	var _re_formatted_numeric = /[',$£€¥%\u2009\u202F\u20BD\u20a9\u20BArfkɃΞ]/gi;
 	
 	
