@@ -2750,7 +2750,7 @@
                 "issues": "https://github.com/paragonie/random_compat/issues",
                 "source": "https://github.com/paragonie/random_compat"
             },
-            "time": "2020-10-15T08:29:30+00:00"
+            "time": "2024-10-15T08:29:30+00:00"
         },
         {
             "name": "paragonie/sodium_compat",
@@ -3156,7 +3156,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-client/tree/master"
             },
-            "time": "2020-06-29T06:28:15+00:00"
+            "time": "2024-06-29T06:28:15+00:00"
         },
         {
             "name": "psr/http-factory",
@@ -6721,7 +6721,7 @@
                 "issues": "https://github.com/hamcrest/hamcrest-php/issues",
                 "source": "https://github.com/hamcrest/hamcrest-php/tree/v2.0.1"
             },
-            "time": "2020-07-09T08:09:16+00:00"
+            "time": "2024-07-09T08:09:16+00:00"
         },
         {
             "name": "laravel/pint",
@@ -8844,7 +8844,7 @@
                 "psr-4": {
                     "Symfony\\Component\\Yaml\\": ""
                 },
-                "exclude-from-classmap": [
+                "exclude-from-class": [
                     "/Tests/"
                 ]
             },
